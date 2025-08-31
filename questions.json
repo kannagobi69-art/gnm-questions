@@ -1,0 +1,1597 @@
+
+[
+      // ====================
+      // UNIT I: Health System in India
+      // ====================
+      {
+        "unit": "I",
+        "unitName": "Health System in India",
+        "question": "The Panchayat Raj at the village level consists of the Gram Sabha, Gram Panchayat and Nyaya Panchayat.",
+        "isTrue": true,
+        "explanation": "Three-tier rural governance system as per Indian Constitution.",
+        "year": "March 2022"
+      },
+      {
+        "unit": "I",
+        "unitName": "Health System in India",
+        "question": "One PHC provides health cover to 6 sub-centres.",
+        "isTrue": true,
+        "explanation": "Standard norm: 1 PHC supervises 6 sub-centres.",
+        "year": "September 2024"
+      },
+      {
+        "unit": "I",
+        "unitName": "Health System in India",
+        "question": "Primary health care means first level health care.",
+        "isTrue": true,
+        "explanation": "PHC is the first central point of contact between the village community and the health system.",
+        "year": "February 2025"
+      },
+      {
+        "unit": "I",
+        "unitName": "Health System in India",
+        "question": "The three levels of health care are primary care, secondary care and promotive care.",
+        "isTrue": false,
+        "explanation": "Correct levels are Primary, Secondary, and Tertiary care. Promotive is a type of care, not a level.",
+        "year": "March 2022"
+      },
+      {
+        "unit": "I",
+        "unitName": "Health System in India",
+        "question": "Sub-centre is the first referral unit.",
+        "isTrue": false,
+        "explanation": "Community  Health Centre (CHC) is the first referral unit. Sub-centre is the most peripheral facility.",
+        "year": "Rajasthan 2019"
+      },
+      {
+        "unit": "I",
+        "unitName": "Health System in India",
+        "question": "Corporations in urban areas have a population of above 2 lakhs.",
+        "isTrue": true,
+        "explanation": "Municipal Corporations are formed in cities with population > 1 lakh, typically > 2 lakhs.",
+        "year": "Unspecified"
+      },
+      {
+        "unit": "I",
+        "unitName": "Health System in India",
+        "question": "The highest authority at a district hospital is the Chief Medical Officer.",
+        "isTrue": true,
+        "explanation": "Also known as Civil Surgeon or CMO.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "I",
+        "unitName": "Health System in India",
+        "question": "The Mayor is the highest elected representative of the Corporation.",
+        "isTrue": true,
+        "explanation": "Head of the Municipal Corporation.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "I",
+        "unitName": "Health System in India",
+        "question": "The bed capacity of community health centre is 50.",
+        "isTrue": false,
+        "explanation": "Standard CHC has 30 beds as per IPHS. Some upgraded have 50.",
+        "year": "February 2025"
+      },
+      {
+        "unit": "I",
+        "unitName": "Health System in India",
+        "question": "Tertiary care is provided by Medical College and hospital.",
+        "isTrue": true,
+        "explanation": "Tertiary care involves specialized referral services like those in medical colleges.",
+        "year": "February 2025"
+      },
+      {
+        "unit": "I",
+        "unitName": "Health System in India",
+        "question": "India comprises 28 States and 7 Union Territories.",
+        "isTrue": true,
+        "explanation": "As per current administrative structure (2024).",
+        "year": "Unspecified"
+      },
+      {
+        "unit": "I",
+        "unitName": "Health System in India",
+        "question": "The Central Council of Health was established on August 9, 1952.",
+        "isTrue": true,
+        "explanation": "",
+        "year": "Delhi 2017"
+      },
+      
+      {
+        "unit": "I",
+        "unitName": "Health System in India",
+        "question": "Three-tier structure of Local Self-government is involved in the Panchayati Raj System.",
+        "isTrue": true,
+        "explanation": "Gram Panchayat → Panchayat Samiti → Zila Parishad.",
+        "year": "Unspecified"
+      },
+      {
+        "unit": "I",
+        "unitName": "Health System in India",
+        "question": "One anganwadi worker is appointed per 2000 population.",
+        "isTrue": false,
+        "explanation": "One Anganwadi worker per 1000 population or per habitation.",
+        "year": "UP 2015"
+      },
+      {
+        "unit": "I",
+        "unitName": "Health System in India",
+        "question": "Five staff appointed on a sub-centre.",
+        "isTrue": false,
+        "explanation": "Only 3 staff: Health worker female, Health worker male, and Voluntary part-time worker.",
+        "year": "UP 2015"
+      },
+      {
+        "unit": "I",
+        "unitName": "Health System in India",
+        "question": "One sub-centre covers a total population of about 15,000.",
+        "isTrue": false,
+        "explanation": "A sub-centre serves 3,000–5,000 people, not 15,000.",
+        "year": "UP 2017"
+      },
+      {
+        "unit": "I",
+        "unitName": "Health System in India",
+        "question": "Hundred anganwadi workers work under one child development project officer.",
+        "isTrue": true,
+        "explanation": "Standard ICDS norm.",
+        "year": "Karnataka 2020"
+      },
+      {
+        "unit": "I",
+        "unitName": "Health System in India",
+        "question": "In India there is one primary health centre for every 30,000 population in hilly tribal and backward areas.",
+        "isTrue": true,
+        "explanation": "Standard norm for hilly/tribal areas.",
+        "year": "Karnataka 2020"
+      },
+      {
+        "unit": "I",
+        "unitName": "Health System in India",
+        "question": "Community health centre has 10 beds.",
+        "isTrue": false,
+        "explanation": "A CHC has 30–50 beds with specialist services.",
+        "year": "Karnataka 2016"
+      },
+      {
+        "unit": "I",
+        "unitName": "Health System in India",
+        "question": "Primary health centre is essential health care.",
+        "isTrue": true,
+        "explanation": "As per Alma-Ata Declaration.",
+        "year": "Karnataka 2018"
+      },
+      {
+        "unit": "I",
+        "unitName": "Health System in India",
+        "question": "Sub-centre covers 3000 population in hilly and difficult area.",
+        "isTrue": true,
+        "explanation": "Standard norm for hilly/tribal areas.",
+        "year": "Maharashtra 2015"
+      },
+      {
+        "unit": "I",
+        "unitName": "Health System in India",
+        "question": "There are 15 health workers at a sub-centre.",
+        "isTrue": false,
+        "explanation": "Only 3 staff: Health worker female,Health worker male and Voluntary part-time worker0.",
+        "year": "Sourcebook"
+      },
+      {
+        "unit": "I",
+        "unitName": "Health System in India",
+        "question": "A sub-centre covers a population of 1000.",
+        "isTrue": false,
+        "explanation": "A sub-centre serves 3,000–5,000 people (5,000 in plain, 3,000 in hilly/tribal areas).",
+        "year": "Sourcebook"
+      },
+      {
+        "unit": "I",
+        "unitName": "Health System in India",
+        "question": "A sub-centre is established for a population of 15,000.",
+        "isTrue": false,
+        "explanation": "A sub-centre serves 3,000–5,000, not 15,000.",
+        "year": "UP 2017"
+      },
+      {
+        "unit": "I",
+        "unitName": "Health System in India",
+        "question": "There is only one medical officer at a sub-centre.",
+        "is True": false,
+        "explanation": "Correct answer— Health worker female is the main health worker; no doctor at sub-centre level.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "I",
+        "unitName": "Health System in India",
+        "question": "A Municipal Board is formed for a population between 10,000 and 200,000.",
+        "isTrue": true,
+        "explanation": "As per local government structure.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "I",
+        "unitName": "Health System in India",
+        "question": "The Panchayati Raj System is a 3-tier structure of rural local self Govt in India linking the village to the district.",
+        "isTrue": true,
+        "explanation": "Gram Panchayat → Panchayat Samiti → Zila Parishad.",
+        "year": "Unspecified"
+      },
+
+      // ====================
+      // UNIT II: Health Care Delivery System
+      // ====================
+      {
+        "unit": "II",
+        "unitName": "Health Care Delivery System",
+        "question": "“Kasturba Memorial Fund” is one of the voluntary organizations in India.",
+        "isTrue": true,
+        "explanation": "Established in memory of Kasturba Gandhi.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "II",
+        "unitName": "Health Care Delivery System",
+        "question": "Anganwadi is the focal point of health services in rural areas.",
+        "isTrue": true,
+        "explanation": "It is the delivery point for ICDS services.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "II",
+        "unitName": "Health Care Delivery System",
+        "question": "The full form of I.C.D.S is Indian Child Development Scheme.",
+        "isTrue": false,
+        "explanation": "Full form: Integrated Child Development Services.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "II",
+        "unitName": "Health Care Delivery System",
+        "question": "The ICDS project is only for young children.",
+        "isTrue": false,
+        "explanation": "Covers pregnant women, lactating mothers, children <6 years, and adolescent girls.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "II",
+        "unitName": "Health Care Delivery System",
+        "question": "AYUSH includes four systems of medicine.",
+        "isTrue": false,
+        "explanation": "AYUSH includes five: Ayurveda, Yoga, Unani, Siddha, Homeopathy.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "II",
+        "unitName": "Health Care Delivery System",
+        "question": "Village Health Guide does not require training.",
+        "isTrue": false,
+        "explanation": "VHG was given 3 months of training.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "II",
+        "unitName": "Health Care Delivery System",
+        "question": "Village Health Guides Scheme was launched in 1975.",
+        "isTrue": false,
+        "explanation": "Village Health Guides Scheme was launched in 1977.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "II",
+        "unitName": "Health Care Delivery System",
+        "question": "Homeopathy is indigenous system of medicine.",
+        "isTrue": true,
+        "explanation": "Recognized under AYUSH as an Indian system of medicine.",
+        "year": "Maharashtra 2015"
+      },
+      {
+        "unit": "II",
+        "unitName": "Health Care Delivery System",
+        "question": "Indian Red Cross Society is an International Voluntary Agency.",
+        "isTrue": true,
+        "explanation": "It is part of the International Red Cross and Red Crescent Movement.",
+        "year": "March 2022"
+      },
+      {
+        "unit": "II",
+        "unitName": "Health Care Delivery System",
+        "question": "Indian Red Cross Society was established in 1920.",
+        "isTrue": true,
+        "explanation": "Established in 1920; recognized in 1929.",
+        "year": "UP 2019"
+      },
+      {
+        "unit": "II",
+        "unitName": "Health Care Delivery System",
+        "question": "Indian Red Cross was established in the year 1940.",
+        "isTrue": false,
+        "explanation": "Established in 1920, not 1940.",
+        "year": "Karnataka 2018"
+      },
+      {
+        "unit": "II",
+        "unitName": "Health Care Delivery System",
+        "question": "In 1950 CARE began in India.",
+        "isTrue": true,
+        "explanation": "CARE started relief operations in India in 1950.",
+        "year": "February 2025"
+      },
+
+      // ====================
+      // UNIT III: Health Planning in India
+      // ====================
+      {
+        "unit": "III",
+        "unitName": "Health Planning in India",
+        "question": "Karthar Singh Committee was formed in 1965.",
+        "isTrue": false,
+        "explanation": "Formed in 1973 to recommend multipurpose health workers.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "III",
+        "unitName": "Health Planning in India",
+        "question": "Mudaliar Committee was the first committee formed.",
+        "isTrue": false,
+        "explanation": "The Bhore Committee (1943) was the first major health committee.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "III",
+        "unitName": "Health Planning in India",
+        "question": "Shrivastava Committee is also called the Health Survey and Development Committee.",
+        "isTrue": false,
+        "explanation": "The Bhore Committee is also called the Health Survey and Development Committee.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "III",
+        "unitName": "Health Planning in India",
+        "question": "The 11th Five-Year Plan started in 2007.",
+        "isTrue": true,
+        "explanation": "2007–2012.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "III",
+        "unitName": "Health Planning in India",
+        "question": "The first five-year plan started in the year 1951.",
+        "isTrue": true,
+        "explanation": "Launched on April 1, 1951.",
+        "year": "Unspecified"
+      },
+      {
+        "unit": "III",
+        "unitName": "Health Planning in India",
+        "question": "Chadha Committee was formed in 1960.",
+        "isTrue": true,
+        "explanation": "Recommended basic health workers for rural areas.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "III",
+        "unitName": "Health Planning in India",
+        "question": "The 12th Five-Year Plan started in 2010.",
+        "isTrue": false,
+        "explanation": "Started in 2012–2017, not 2010.",
+        "year": "Unspecified"
+      },
+      {
+        "unit": "III",
+        "unitName": "Health Planning in India",
+        "question": "Minimum needs programme was initiated during V five-year plan (1974-78).",
+        "isTrue": true,
+        "explanation": "Aimed at providing basic minimum needs.",
+        "year": "Karnataka 2020"
+      },
+      {
+        "unit": "III",
+        "unitName": "Health Planning in India",
+        "question": "Kartar Singh Committee is otherwise known as Multipurpose Health worker committee.",
+        "isTrue": true,
+        "explanation": "Recommended multipurpose health workers.",
+        "year": "Unspecified"
+      },
+      {
+        "unit": "III",
+        "unitName": "Health Planning in India",
+        "question": "Health manpower planning is an important aspect of community health planning.",
+        "isTrue": true,
+        "explanation": "Critical for effective service delivery.",
+        "year": "Delhi 2017"
+      },
+      {
+        "unit": "III",
+        "unitName": "Health Planning in India",
+        "question": "Jungalwalla committee was established in 1964.",
+        "isTrue": true,
+        "explanation": "To examine the various problems related to integration of health services.",
+        "year": "Unspecified"
+      },
+      {
+        "unit": "III",
+        "unitName": "Health Planning in India",
+        "question": "On 1950 the first five year plan in the Indian Parliament was proposed.",
+        "isTrue": false,
+        "explanation": "Proposed on July 1951, not 1950.",
+        "year": "Unspecified"
+      },
+      {
+        "unit": "III",
+        "unitName": "Health Planning in India",
+        "question": "The goal of eradication of Polio and Yaws was given in year 2010.",
+        "isTrue": true,
+        "explanation": "Part of national health goals.",
+        "year": "Unspecified"
+      },
+      {
+        "unit": "III",
+        "unitName": "Health Planning in India",
+        "question": "Health Survey and Planning Committee is also known as Bhore Committee.",
+        "isTrue": true,
+        "explanation": "Yes, Bhore Committee (1943).",
+        "year": "September 2024"
+      },
+      {
+        "unit": "III",
+        "unitName": "Health Planning in India",
+        "question": "The eleventh five-year plan covers the period from 2007 to 2012.",
+        "isTrue": true,
+        "explanation": "2007–2012.",
+        "year": "nursing exam"
+      },
+
+      // ====================
+      // UNIT IV: Specialized Community Health Services
+      // ====================
+      {
+        "unit": "IV",
+        "unitName": "Specialized Community Health Services",
+        "question": "NRHM and JSY were launched in 2005.",
+        "isTrue": true,
+        "explanation": "Both launched under NHM in 2005.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "IV",
+        "unitName": "Specialized Community Health Services",
+        "question": "RCH programme was started in 1997.",
+        "isTrue": true,
+        "explanation": "Reproductive and Child Health Phase I started in 1997.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "IV",
+        "unitName": "Specialized Community Health Services",
+        "question": "Pneumoconiosis is the occupational disease caused by dust.",
+        "isTrue": true,
+        "explanation": "Chronic lung disease due to inhalation of dust (e.g., in miners).",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "IV",
+        "unitName": "Specialized Community Health Services",
+        "question": "Byssinosis is caused by cotton dust.",
+        "isTrue": true,
+        "explanation": "Common in textile workers.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "IV",
+        "unitName": "Specialized Community Health Services",
+        "question": "Alcoholism is a common social problem in industrial areas.",
+        "isTrue": true,
+        "explanation": ".",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "IV",
+        "unitName": "Specialized Community Health Services",
+        "question": "Mental health problems can arise due to industrialization.",
+        "isTrue": true,
+        "explanation": "Urbanization and job stress contribute.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "IV",
+        "unitName": "Specialized Community Health Services",
+        "question": "School Health Services are started 1st at Baroda city.",
+        "isTrue": true,
+        "explanation": "First introduced in Baroda (Vadodara) in 1949.",
+        "year": "Unspecified"
+      },
+      {
+        "unit": "IV",
+        "unitName": "Specialized Community Health Services",
+        "question": "Mild mental retardation IQ is of 50-70.",
+        "isTrue": true,
+        "explanation": "WHO classification.",
+        "year": "March 2022"
+      },
+      {
+        "unit": "IV",
+        "unitName": "Specialized Community Health Services",
+        "question": "The intranatal care is also called 'Puerperium Period'.",
+        "isTrue": false,
+        "explanation": "Puerperium = postnatal period. Intranatal = during labor.",
+        "year": "Unspecified"
+      },
+      {
+        "unit": "IV",
+        "unitName": "Specialized Community Health Services",
+        "question": "Back bone of Public Health Nursing is Bag technique.",
+        "isTrue": false,
+        "explanation": "Home visiting is the backbone of community health nursing.",
+        "year": "September 2024"
+      },
+      {
+        "unit": "IV",
+        "unitName": "Specialized Community Health Services",
+        "question": "Home visiting is the back bone of community Health.",
+        "isTrue": true,
+        "explanation": ".",
+        "year": "December 2021"
+      },
+      {
+        "unit": "IV",
+        "unitName": "Specialized Community Health Services",
+        "question": "Weight gain during pregnancy in a healthy mother is 6-8 kg.",
+        "isTrue": false,
+        "explanation": "Normal weight gain: 10–12 kg (underweight may gain more).",
+        "year": "Unspecified"
+      },
+      {
+        "unit": "IV",
+        "unitName": "Specialized Community Health Services",
+        "question": "NRHM was launched in 2010.",
+        "isTrue": false,
+        "explanation": "Launched in 2005, not 2010.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "IV",
+        "unitName": "Specialized Community Health Services",
+        "question": "Infectious diseases can be prevented through school health services.",
+        "isTrue": true,
+        "explanation": "Includes immunization, health education, screening.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "IV",
+        "unitName": "Specialized Community Health Services",
+        "question": "The main aim of 'NRHM' is the effective primary health care.",
+        "isTrue": true,
+        "explanation": "Core objective of NRHM.",
+        "year": "UP 2016"
+      },
+      {
+        "unit": "IV",
+        "unitName": "Specialized Community Health Services",
+        "question": "Each mother is given <5000/- under JSY yojana.",
+        "isTrue": false,
+        "explanation": "Amount varies by state and delivery site.",
+        "year": "Gujarat 2016"
+      },
+      {
+        "unit": "IV",
+        "unitName": "Specialized Community Health Services",
+        "question": "Antenatal mother must be examined at least for three times during pregnancy.",
+        "isTrue": true,
+        "explanation": "As per current guidelines (ANC 3+).",
+        "year": "Gujarat 2016"
+      },
+      {
+        "unit": "IV",
+        "unitName": "Specialized Community Health Services",
+        "question": "Objective of the MCH is only to take care of children.",
+        "isTrue": false,
+        "explanation": "MCH includes mother, child, adolescent, and family. Not just children.",
+        "year": "Unspecified"
+      },
+      {
+        "unit": "IV",
+        "unitName": "Specialized Community Health Services",
+        "question": "The objective of the under-five clinic is to take care of children below 5 years.",
+        "isTrue": true,
+        "explanation": "Focuses on preventive, promotive, and curative care for under-fives.",
+        "year": "Unspecified"
+      },
+      {
+        "unit": "IV",
+        "unitName": "Specialized Community Health Services",
+        "question": "April 10th is Celebrated as Safe Motherhood Day.",
+        "isTrue": false,
+        "explanation": "Safe Motherhood Day is April 11. Some sources say October 15.",
+        "year": "Unspecified"
+      },
+      {
+        "unit": "IV",
+        "unitName": "Specialized Community Health Services",
+        "question": "One of the basic activities of under-five clinic is Growth Monitoring.",
+        "isTrue": true,
+        "explanation": "Includes immunization, nutrition, growth monitoring.",
+        "year": "Unspecified"
+      },
+      {
+        "unit": "IV",
+        "unitName": "Specialized Community Health Services",
+        "question": "ASHA stands for Accredited Social Health Activist.",
+        "isTrue": true,
+        "explanation": "Key community health worker under NHM.",
+        "year": "Standard"
+      },
+
+      // ====================
+      // UNIT V: National Health Problems
+      // ====================
+      {
+        "unit": "V",
+        "unitName": "National Health Problems",
+        "question": "Goitre is mostly limited to hilly areas.",
+        "isTrue": true,
+        "explanation": "Due to iodine-deficient soil and water.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "V",
+        "unitName": "National Health Problems",
+        "question": "Cholera is not a communicable disease.",
+        "isTrue": false,
+        "explanation": "Cholera is a highly communicable waterborne disease.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "V",
+        "unitName": "National Health Problems",
+        "question": "Lathyrism is caused by eating cereals.",
+        "isTrue": false,
+        "explanation": "Caused by khesari dal (Lathyrus sativus), not general cereals.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "V",
+        "unitName": "National Health Problems",
+        "question": "Japanese Encephalitis is an occupational disease.",
+        "isTrue": false,
+        "explanation": "It is a vector-borne disease, not occupational.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "V",
+        "unitName": "National Health Problems",
+        "question": "German measles is also called rubella.",
+        "isTrue": true,
+        "explanation": "Synonymous terms.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "V",
+        "unitName": "National Health Problems",
+        "question": "Typhoid is transmitted through blood.",
+        "isTrue": false,
+        "explanation": "Transmitted via fecal-oral route (contaminated food/water).",
+        "year": "February 2025"
+      },
+      {
+        "unit": "V",
+        "unitName": "National Health Problems",
+        "question": "Swine Flu is an sexually transmitted disease only.",
+        "isTrue": false,
+        "explanation": "Spread by airborne droplets, not sexual transmission.",
+        "year": "March 2022"
+      },
+      {
+        "unit": "V",
+        "unitName": "National Health Problems",
+        "question": "Inhalation of grain dust causes Farmer's lung disease.",
+        "isTrue": true,
+        "explanation": "Hypersensitivity pneumonitis due to moldy hay/grain dust.",
+        "year": "Unspecified"
+      },
+      {
+        "unit": "V",
+        "unitName": "National Health Problems",
+        "question": "Farmer's Lung is caused by Inhalation of grain dust.",
+        "isTrue": true,
+        "explanation": "Repeated exposure leads to chronic disease.",
+        "year": "Unspecified"
+      },
+      {
+        "unit": "V",
+        "unitName": "National Health Problems",
+        "question": "Farmer's lung is caused due to the inhalation of sugarcane dust.",
+        "isTrue": false,
+        "explanation": "Caused by moldy hay/grain dust, not sugarcane.",
+        "year": "Unspecified"
+      },
+      {
+        "unit": "V",
+        "unitName": "National Health Problems",
+        "question": "Inhalation of silica dust causes Silicosis.",
+        "isTrue": true,
+        "explanation": "Occupational lung disease.",
+        "year": "Unspecified"
+      },
+      {
+        "unit": "V",
+        "unitName": "National Health Problems",
+        "question": "Blindness is an Intrinsic handicap.",
+        "isTrue": true,
+        "explanation": "Disability originating within the individual.",
+        "year": "Unspecified"
+      },
+      {
+        "unit": "V",
+        "unitName": "National Health Problems",
+        "question": "An example of vector borne transmission is malaria.",
+        "isTrue": true,
+        "explanation": "Transmitted by Anopheles mosquito.",
+        "year": "Delhi 2018"
+      },
+      {
+        "unit": "V",
+        "unitName": "National Health Problems",
+        "question": "Japanese encephalitis is a zoonotic disease.",
+        "isTrue": true,
+        "explanation": "Spread from animals (pigs, birds) via mosquitoes.",
+        "year": "Unspecified"
+      },
+      {
+        "unit": "V",
+        "unitName": "National Health Problems",
+        "question": "Measles is a highly infectious disease caused by bacteria.",
+        "isTrue": false,
+        "explanation": "Caused by virus (paramyxovirus).",
+        "year": "Karnataka 2018"
+      },
+      {
+        "unit": "V",
+        "unitName": "National Health Problems",
+        "question": "MMR vaccine given to prevent hepatitis-B.",
+        "isTrue": false,
+        "explanation": "Prevents Measles, Mumps, Rubella.",
+        "year": "Rajasthan 2019"
+      },
+      {
+        "unit": "V",
+        "unitName": "National Health Problems",
+        "question": "Pentavalent vaccine includes measles vaccine.",
+        "isTrue": false,
+        "explanation": "Includes DPT, HepB, Hib; not measles.",
+        "year": "Gujarat 2017"
+      },
+      {
+        "unit": "V",
+        "unitName": "National Health Problems",
+        "question": "Filaria is transmitted by Flies.",
+        "isTrue": false,
+        "explanation": "Transmitted by mosquitoes (Culex, Anopheles, Mansonia).",
+        "year": "Unspecified"
+      },
+
+      // ====================
+      // UNIT VI: National Health Programmes
+      // ====================
+      {
+        "unit": "VI",
+        "unitName": "National Health Programmes",
+        "question": "The National Leprosy Control Programme started in 1985.",
+        "isTrue": false,
+        "explanation": "Started in 1955; NLEP (Eradication) in 1983.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "VI",
+        "unitName": "National Health Programmes",
+        "question": "Multi-drug therapy (MDT) is given for leprosy treatment.",
+        "isTrue": true,
+        "explanation": "Standard treatment under NLEP.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "VI",
+        "unitName": "National Health Programmes",
+        "question": "UNICEF headquarters is in Geneva, Switzerland.",
+        "isTrue": false,
+        "explanation": "UNICEF HQ is in New York, USA. WHO is in Geneva.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "VI",
+        "unitName": "National Health Programmes",
+        "question": "CSSM aims to reduce deaths from diarrhea in under-five children using ORT.",
+        "isTrue": true,
+        "explanation": "ORT is a key strategy.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "VI",
+        "unitName": "National Health Programmes",
+        "question": "Under CSSM, a woman must have at least 2 antenatal check-ups.",
+        "isTrue": false,
+        "explanation": "Minimum 3 ANC visits are recommended.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "VI",
+        "unitName": "National Health Programmes",
+        "question": "One Anganwadi worker is appointed for 2000 population.",
+        "isTrue": false,
+        "explanation": "One Anganwadi worker per 1000 population.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "VI",
+        "unitName": "National Health Programmes",
+        "question": "Anganwadi worker is given 4 months of training.",
+        "isTrue": true,
+        "explanation": "As per ICDS guidelines.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "VI",
+        "unitName": "National Health Programmes",
+        "question": "Dais are given 3 months of training.",
+        "isTrue": true,
+        "explanation": "Traditional Birth Attendants (TBAs) were trained for 3 months.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "VI",
+        "unitName": "National Health Programmes",
+        "question": "DOTS is the community based treatment for AIDS.",
+        "isTrue": false,
+        "explanation": "DOTS is for Tuberculosis, not AIDS.",
+        "year": "September 2024"
+      },
+      {
+        "unit": "VI",
+        "unitName": "National Health Programmes",
+        "question": "DOTS is Directly Observed Treatment Short course is the treatment protocol for management of Filaria.",
+        "isTrue": false,
+        "explanation": "DOTS is for TB; Filaria (lymphatic filariasis) has MDA of DEC .",
+        "year": "December 2021"
+      },
+      {
+        "unit": "VI",
+        "unitName": "National Health Programmes",
+        "question": "Government of India launched a national AIDS control programme in 1990.",
+        "isTrue": true,
+        "explanation": "NACP Phase I started in 1992; planning began in 1990.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "VI",
+        "unitName": "National Health Programmes",
+        "question": "BCG vaccination is given to prevent tuberculosis.",
+        "isTrue": true,
+        "explanation": "Standard preventive measure.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "VI",
+        "unitName": "National Health Programmes",
+        "question": "The drug given for the treatment of tuberculosis is Rifampicin.",
+        "isTrue": true,
+        "explanation": "Key first-line drug.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "VI",
+        "unitName": "National Health Programmes",
+        "question": "MTP Act was passed in the year 1962.",
+        "isTrue": false,
+        "explanation": "Passed in 1971, effective 1972.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "VI",
+        "unitName": "National Health Programmes",
+        "question": "Colostrum is harmful to the new-born baby.",
+        "isTrue": false,
+        "explanation": "Colostrum is highly beneficial (antibodies, nutrients).",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "VI",
+        "unitName": "National Health Programmes",
+        "question": "International AIDS day is designated on December 1.",
+        "isTrue": true,
+        "explanation": "Observed annually.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "VI",
+        "unitName": "National Health Programmes",
+        "question": "March 20th is celebrated as world tuberculosis day.",
+        "isTrue": false,
+        "explanation": "It is March 24.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "VI",
+        "unitName": "National Health Programmes",
+        "question": "WHO declared India as guinea worm free country in February 2000.",
+        "isTrue": true,
+        "explanation": "Certification for eradication.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "VI",
+        "unitName": "National Health Programmes",
+        "question": "Notification or reporting is the first step in the control of communicable disease.",
+        "isTrue": true,
+        "explanation": "Essential for surveillance.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "VI",
+        "unitName": "National Health Programmes",
+        "question": "Tuberculosis can be prevented by T.A.B. vaccine.",
+        "isTrue": false,
+        "explanation": "Tuberculosis is prevented by BCG vaccine, not T.A.B. T.A.B Vaccine means Typhoid ,Paratyphoid A and B Vaccine.  It is outdated.",
+        "year": "Delhi 2018"
+      },
+      {
+        "unit": "VI",
+        "unitName": "National Health Programmes",
+        "question": "First milk secreting from the mother is called colostrum.",
+        "isTrue": true,
+        "explanation": "",
+        "year": "Delhi 2016"
+      },
+      {
+        "unit": "VI",
+        "unitName": "National Health Programmes",
+        "question": "Colostrum contains less protein than breast milk.",
+        "isTrue": false,
+        "explanation": "Colostrum is richer in protein and antibodies than mature milk.",
+        "year": "Delhi 2016"
+      },
+      {
+        "unit": "VI",
+        "unitName": "National Health Programmes",
+        "question": "BCG vaccine is given by intradermal route.",
+        "isTrue": true,
+        "explanation": "",
+        "year": "Rajasthan 2019"
+      },
+      {
+        "unit": "VI",
+        "unitName": "National Health Programmes",
+        "question": "The route of administration of BCG is intramuscular.",
+        "isTrue": false,
+        "explanation": "BCG is given by intradermal route in left arm, not IM.",
+        "year": "nursing exam"
+      },
+      {
+        "unit": "VI",
+        "unitName": "National Health Programmes",
+        "question": "Pap smear is a screening test for cervical cancer.",
+        "isTrue": true,
+        "explanation": "Gold standard for early detection.",
+        "year": "nursing exam"
+      },
+      {
+        "unit": "VI",
+        "unitName": "National Health Programmes",
+        "question": "ORS contains 2.6 gm of sodium.",
+        "isTrue": true,
+        "explanation": "WHO standard ORS: 2.6 g NaCl.",
+        "year": "nursing exam"
+      },
+      {
+        "unit": "VI",
+        "unitName": "National Health Programmes",
+        "question": "One egg provides 6g protein, 6g fat, 30mg calcium.",
+        "isTrue": true,
+        "explanation": "Approximate nutritional value.",
+        "year": "nursing exam"
+      },
+      {
+        "unit": "VI",
+        "unitName": "National Health Programmes",
+        "question": "The road to health card is an important tool for monitoring growth of under five children.",
+        "isTrue": true,
+        "explanation": "Tracks weight, immunization, illness. Weight for age chart",
+        "year": "Unspecified"
+      },
+      {
+        "unit": "VI",
+        "unitName": "National Health Programmes",
+        "question": "Road to health chart shows the degree of malnutrition.",
+        "isTrue": true,
+        "explanation": "Weight-for-age indicates malnutrition level.",
+        "year": "Unspecified"
+      },
+
+      // ====================
+      // UNIT VII: Demography and Family Welfare
+      // ====================
+      {
+        "unit": "VII",
+        "unitName": "Demography and Family Welfare",
+        "question": "Under the small family norm, no more than 2 children should be born.",
+        "isTrue": true,
+        "explanation": "Ideal family size is 2 children.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "VII",
+        "unitName": "Demography and Family Welfare",
+        "question": "World AIDS Day is celebrated on 1st May.",
+        "isTrue": false,
+        "explanation": "Celebrated on 1st December.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "VII",
+        "unitName": "Demography and Family Welfare",
+        "question": "World Heart Day is celebrated on 28th September.",
+        "isTrue": false,
+        "explanation": "Celebrated on 29th September.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "VII",
+        "unitName": "Demography and Family Welfare",
+        "question": "World Health Day is celebrated on 7th April.",
+        "isTrue": true,
+        "explanation": "Marks the founding of WHO (1948).",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "VII",
+        "unitName": "Demography and Family Welfare",
+        "question": "Census is conducted every 10 years.",
+        "isTrue": true,
+        "explanation": "Since 1881, every decade.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "VII",
+        "unitName": "Demography and Family Welfare",
+        "question": "The first census in India was in 1781.",
+        "isTrue": false,
+        "explanation": "First modern census was in 1872, first complete in 1881.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "VII",
+        "unitName": "Demography and Family Welfare",
+        "question": "India's first census was in 1981.",
+        "isTrue": false,
+        "explanation": "First census was in 1881.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "VII",
+        "unitName": "Demography and Family Welfare",
+        "question": "Census is not important for essential data.",
+        "isTrue": false,
+        "explanation": "Census is a vital source of demographic data.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "VII",
+        "unitName": "Demography and Family Welfare",
+        "question": "Death must be registered within 7 days.",
+        "isTrue": false,
+        "explanation": "As per Registration of Births and Deaths Act, 21 days is the limit.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "VII",
+        "unitName": "Demography and Family Welfare",
+        "question": "Fertility and mortality are related to demography.",
+        "isTrue": true,
+        "explanation": "Core demographic indicators.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "VII",
+        "unitName": "Demography and Family Welfare",
+        "question": "The first census conducted in India in 1881.",
+        "isTrue": true,
+        "explanation": "First complete census.",
+        "year": "Karnataka 2019"
+      },
+      {
+        "unit": "VII",
+        "unitName": "Demography and Family Welfare",
+        "question": "Sex ratio is defined as the number of females per 1000 males.",
+        "isTrue": true,
+        "explanation": "Standard definition.",
+        "year": "Karnataka 2017"
+      },
+      {
+        "unit": "VII",
+        "unitName": "Demography and Family Welfare",
+        "question": "General births and deaths registration act came in to force on 1st April 1980.",
+        "isTrue": false,
+        "explanation": "Enacted in 1969, implemented gradually.",
+        "year": "Unspecified"
+      },
+      {
+        "unit": "VII",
+        "unitName": "Demography and Family Welfare",
+        "question": "If a person can only read, but cannot write is considered as literate.",
+        "isTrue": true,
+        "explanation": "As per Indian census definition.",
+        "year": "Unspecified"
+      },
+      {
+        "unit": "VII",
+        "unitName": "Demography and Family Welfare",
+        "question": "Census is not an important source of mandatory data.",
+        "isTrue": false,
+        "explanation": "It is a key source of vital statistics.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "VII",
+        "unitName": "Demography and Family Welfare",
+        "question": "Intra Uterine Device (IUD) is a permanent method of Family Planning in Female.",
+        "isTrue": false,
+        "explanation": "IUD is a temporary, reversible method. Permanent method = tubectomy.",
+        "year": "TN 2020"
+      },
+      {
+        "unit": "VII",
+        "unitName": "Demography and Family Welfare",
+        "question": "The MTP Act was passed in the year 1962.",
+        "isTrue": false,
+        "explanation": "MTP Act was passed in 1971, effective from 1972.",
+        "year": "Delhi 2017"
+      },
+      {
+        "unit": "VII",
+        "unitName": "Demography and Family Welfare",
+        "question": "The IUD acts by Interfering with the Implantation of the fertilized Ovum.",
+        "isTrue": true,
+        "explanation": "Prevents implantation; also thickens cervical mucus.",
+        "year": "TN 2020"
+      },
+      {
+        "unit": "VII",
+        "unitName": "Demography and Family Welfare",
+        "question": "For the better absorption Iron & Folic Acid tablets should be taken with Citrus fruits.",
+        "isTrue": true,
+        "explanation": "Vitamin C enhances iron absorption.",
+        "year": "Delhi 2016"
+      },
+      {
+        "unit": "VII",
+        "unitName": "Demography and Family Welfare",
+        "question": "Oral contraceptive pills contain estrogen and progesterone.",
+        "isTrue": true,
+        "explanation": "Combined oral contraceptives contain both.",
+        "year": "Standard"
+      },
+      {
+        "unit": "VII",
+        "unitName": "Demography and Family Welfare",
+        "question": "Mala-D has 21 hormonal and 7 iron tablets.",
+        "isTrue": true,
+        "explanation": "Correct composition.",
+        "year": "nursing exam"
+      },
+      {
+        "unit": "VII",
+        "unitName": "Demography and Family Welfare",
+        "question": "Mala-N has only 21 contraceptive pills.",
+        "isTrue": true,
+        "explanation": "21 active pills, no iron tablets.",
+        "year": "nursing exam"
+      },
+      {
+        "unit": "VII",
+        "unitName": "Demography and Family Welfare",
+        "question": "Male sterilization is a temporary method.",
+        "isTrue": false,
+        "explanation": "It is a permanent method.",
+        "year": "nursing exam"
+      },
+      {
+        "unit": "VII",
+        "unitName": "Demography and Family Welfare",
+        "question": "Copper T-380A works for 10 years.",
+        "isTrue": true,
+        "explanation": "Effective for up to 10 years.",
+        "year": "nursing exam"
+      },
+      {
+        "unit": "VII",
+        "unitName": "Demography and Family Welfare",
+        "question": "DMPA is an implant contraceptive.",
+        "isTrue": false,
+        "explanation": "DMPA (Depo-Provera) is an injectable, not implant.",
+        "year": "nursing exam"
+      },
+      {
+        "unit": "VII",
+        "unitName": "Demography and Family Welfare",
+        "question": "The population control and family planning are functioning under list.",
+        "isTrue": false,
+        "explanation": "It is in the Concurrent List of Indian Constitution.",
+        "year": "Unspecified"
+      },
+      {
+        "unit": "VII",
+        "unitName": "Demography and Family Welfare",
+        "question": "Weight gain during pregnancy in a healthy mother is 6-8 kg.",
+        "isTrue": false,
+        "explanation": "Normal weight gain: 10–12 kg.",
+        "year": "Unspecified"
+      },
+
+      // ====================
+      // UNIT VIII: Health Team and Nurse’s Role
+      // ====================
+      {
+        "unit": "VIII",
+        "unitName": "Health Team and Nurse’s Role",
+        "question": "At PHC, the nurse is responsible for patient treatment.",
+        "isTrue": false,
+        "explanation": "Medical Officer (MO) is responsible; nurse assists.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "VIII",
+        "unitName": "Health Team and Nurse’s Role",
+        "question": "Village Health Guide does not require training.",
+        "isTrue": false,
+        "explanation": "VHG was given 3 months of training.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "VIII",
+        "unitName": "Health Team and Nurse’s Role",
+        "question": "Village Health Guides are given one month of training.",
+        "isTrue": false,
+        "explanation": "They received 3 months of training.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "VIII",
+        "unitName": "Health Team and Nurse’s Role",
+        "question": "ASHA should have at least 10th pass education.",
+        "isTrue": false,
+        "explanation": "ASHA should be 8th pass (or 10th in some states), but locally acceptable.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "VIII",
+        "unitName": "Health Team and Nurse’s Role",
+        "question": "Epidemiology is the science of disease patterns in human populations.",
+        "isTrue": true,
+        "explanation": "Definition is correct.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "VIII",
+        "unitName": "Health Team and Nurse’s Role",
+        "question": "Health survey is used to diagnose community health problems.",
+        "isTrue": true,
+        "explanation": "Helps identify needs and priorities.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "VIII",
+        "unitName": "Health Team and Nurse’s Role",
+        "question": "Block Health Educator is the in charge of PHC.",
+        "isTrue": false,
+        "explanation": "Medical Officer (MO) is in charge of PHC.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "VIII",
+        "unitName": "Health Team and Nurse’s Role",
+        "question": "The District Public Health Nurse (DPHN) is placed at the district health office and is directly responsible to the District Health Officer (DHO).",
+        "isTrue": true,
+        "explanation": "Key supervisory role.",
+        "year": "Unspecified"
+      },
+      {
+        "unit": "VIII",
+        "unitName": "Health Team and Nurse’s Role",
+        "question": "The team members should not be harmonious relationship with each other.",
+        "isTrue": false,
+        "explanation": "Teamwork requires harmony and coordination.",
+        "year": "Unspecified"
+      },
+      {
+        "unit": "VIII",
+        "unitName": "Health Team and Nurse’s Role",
+        "question": "A Nurse plays a role as an investigator and as a coordinator in National Health Programme.",
+        "isTrue": true,
+        "explanation": "Surveillance, data collection, and coordination.",
+        "year": "Unspecified"
+      },
+      {
+        "unit": "VIII",
+        "unitName": "Health Team and Nurse’s Role",
+        "question": "For every 5000 rural population there are five multi-purpose health workers.",
+        "isTrue": false,
+        "explanation": "Only one ANM (female MPHW) per 5,000 (rural). Not five.",
+        "year": "UP 2015, Gujarat 2016"
+      },
+      {
+        "unit": "VIII",
+        "unitName": "Health Team and Nurse’s Role",
+        "question": "Male Health Worker provides health services to 1000 population only.",
+        "isTrue": false,
+        "explanation": "Serves 5,000 population in plains.",
+        "year": "UP 2019"
+      },
+      {
+        "unit": "VIII",
+        "unitName": "Health Team and Nurse’s Role",
+        "question": "Village Health Guide Scheme was introduced on October 1977.",
+        "isTrue": true,
+        "explanation": "Launched in October 1977 under National Health Policy.",
+        "year": "Unspecified"
+      },
+
+      // ====================
+      // UNIT IX: Health Information System
+      // ====================
+     
+      {
+        "unit": "IX",
+        "unitName": "Health Information System",
+        "question": "All vaccines must be stored only in deep freezers.",
+        "isTrue": false,
+        "explanation": "Some vaccines (like BCG, Measles) need refrigerator (2–8°C), not freezer.",
+        "year": "nursing exam"
+      },
+      {
+        "unit": "IX",
+        "unitName": "Health Information System",
+        "question": "Vital statistics is numerical data regarding important incidents in a community and analysis of this data.",
+        "isTrue": true,
+        "explanation": "Includes births, deaths, marriages.",
+        "year": "December 2021"
+      },
+      {
+        "unit": "IX",
+        "unitName": "Health Information System",
+        "question": "Waste generated from health care settings is called biomedical waste.",
+        "isTrue": true,
+        "explanation": "Defined under BMW Rules.",
+        "year": "December 2021"
+      },
+      {
+        "unit": "IX",
+        "unitName": "Health Information System",
+        "question": "Record review method is secondary source of information.",
+        "isTrue": true,
+        "explanation": "Uses existing records.",
+        "year": "Karnataka 2020"
+      },
+     
+      {
+        "unit": "IX",
+        "unitName": "Health Information System",
+        "question": "In growth chart, any deviation from normal can be detected by comparison with reference curves.",
+        "isTrue": true,
+        "explanation": "WHO growth standards used.",
+        "year": "Delhi 2017"
+      },
+      {
+        "unit": "IX",
+        "unitName": "Health Information System",
+        "question": "The first dose of vitamin A is 200000 IU.",
+        "isTrue": true,
+        "explanation": "Given at 9 months age.",
+        "year": "Delhi 2017"
+      },
+      {
+        "unit": "IX",
+        "unitName": "Health Information System",
+        "question": "Vitamin A administration is initiated at the age of 9 months.",
+        "isTrue": true,
+        "explanation": "As per national immunization schedule.",
+        "year": "Delhi 2015"
+      },
+      {
+        "unit": "IX",
+        "unitName": "Health Information System",
+        "question": "Diabetic diet includes intake of complex carbohydrate.",
+        "isTrue": true,
+        "explanation": "Helps in slow glucose release.",
+        "year": "Delhi 2016"
+      },
+      {
+        "unit": "IX",
+        "unitName": "Health Information System",
+        "question": "The first census was taken in India in the year 1781.",
+        "isTrue": false,
+        "explanation": "First modern census was in 1872, first complete in 1881.",
+        "year": "UP 2016"
+      },
+      {
+        "unit": "IX",
+        "unitName": "Health Information System",
+        "question": "The recent census in India was conducted in the year 2010.",
+        "isTrue": false,
+        "explanation": "Last census was in 2011.",
+        "year": "Karnataka 2017"
+      },
+      {
+        "unit": "IX",
+        "unitName": "Health Information System",
+        "question": "Census takes place every four years.",
+        "isTrue": false,
+        "explanation": "Every 10 years.",
+        "year": "Gujarat 2016"
+      },
+      {
+        "unit": "IX",
+        "unitName": "Health Information System",
+        "question": "General births and deaths registration act came in to force on 1st April 1980.",
+        "isTrue": false,
+        "explanation": "Enacted in 1969, implemented gradually.",
+        "year": "Unspecified"
+      },
+      {
+        "unit": "IX",
+        "unitName": "Health Information System",
+        "question": "Notification or reporting is the first step in the control of communicable disease.",
+        "isTrue": true,
+        "explanation": "Essential for surveillance.",
+        "year": "nursing exam"
+      },
+
+      // ====================
+      // UNIT X: National and International Health Agencies
+      // ====================
+      {
+        "unit": "X",
+        "unitName": "National and International Health Agencies",
+        "question": "International Red Cross was founded by Henry William.",
+        "isTrue": false,
+        "explanation": "Founded by Henry Dunant in 1863.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "X",
+        "unitName": "National and International Health Agencies",
+        "question": "Red Cross is an international organization for children's benefit.",
+        "isTrue": false,
+        "explanation": "It provides humanitarian aid during war/disasters, not exclusively for children.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "X",
+        "unitName": "National and International Health Agencies",
+        "question": "UNICEF HQ is in Geneva.",
+        "isTrue": false,
+        "explanation": "UNICEF HQ is in New York, USA. WHO is in Geneva.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "X",
+        "unitName": "National and International Health Agencies",
+        "question": "WHO headquarters is in Geneva.",
+        "isTrue": true,
+        "explanation": "Correct.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "X",
+        "unitName": "National and International Health Agencies",
+        "question": "WHO is a political organization.",
+        "isTrue": false,
+        "explanation": "It is a specialized agency of the UN for health, not political.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "X",
+        "unitName": "National and International Health Agencies",
+        "question": "Kasturba Memorial Fund was created in memory of Kasturba Gandhi.",
+        "isTrue": true,
+        "explanation": "Correct.",
+        "year": "GNM Source"
+      },
+      {
+        "unit": "X",
+        "unitName": "National and International Health Agencies",
+        "question": "FAO was established in 1945 with headquarters in Geneva.",
+        "isTrue": false,
+        "explanation": "FAO founded in 1945, HQ in Rome, Italy.",
+        "year": "Unspecified"
+      },
+      {
+        "unit": "X",
+        "unitName": "National and International Health Agencies",
+        "question": "Head Quarter of Food and Agriculture Organization(F.A.O) is in Geneva.",
+        "isTrue": false,
+        "explanation": "FAO HQ is in Rome, Italy.",
+        "year": "Unspecified"
+      },
+      {
+        "unit": "X",
+        "unitName": "National and International Health Agencies",
+        "question": "The headquarters of UNICEF is at New York.",
+        "isTrue": true,
+        "explanation": "UNICEF HQ is in NYC.",
+        "year": "Unspecified"
+      },
+      {
+        "unit": "X",
+        "unitName": "National and International Health Agencies",
+        "question": "W.H.O. office for South East Asia region is situated at New Delhi.",
+        "isTrue": true,
+        "explanation": "Regional office for SEARO.",
+        "year": "Gujarat 2017"
+      },
+      {
+        "unit": "X",
+        "unitName": "National and International Health Agencies",
+        "question": "The Factory Act was implemented in 1946.",
+        "isTrue": true,
+        "explanation": "The Factories Act, 1948 came into force in 1949; 1946 draft.",
+        "year": "nursing exam"
+      },
+      {
+        "unit": "X",
+        "unitName": "National and International Health Agencies",
+        "question": "ESI started in 1948.",
+        "isTrue": true,
+        "explanation": "Employees' State Insurance Act passed in 1948.",
+        "year": "nursing exam"
+      },
+      {
+        "unit": "X",
+        "unitName": "National and International Health Agencies",
+        "question": "Employees earning up to ₹10,000/month get ESI benefits.",
+        "isTrue": true,
+        "explanation": "As per eligibility criteria.",
+        "year": "nursing exam"
+      },
+      {
+        "unit": "X",
+        "unitName": "National and International Health Agencies",
+        "question": "Central Health Minister is the chairman of ESI.",
+        "isTrue": false,
+        "explanation": "Chairman is the Union Minister of Labour.",
+        "year": "nursing exam"
+      },
+      {
+        "unit": "X",
+        "unitName": "National and International Health Agencies",
+        "question": "The family planning associations was found in 1949 with its headquarters at Mumbai.",
+        "isTrue": true,
+        "explanation": "FP Association of India established in 1949.",
+        "year": "Unspecified"
+      },
+      {
+        "unit": "X",
+        "unitName": "National and International Health Agencies",
+        "question": "In 1950 CARE began in India.",
+        "isTrue": true,
+        "explanation": "CARE started relief operations in India in 1950.",
+        "year": "February 2025"
+      },
+      {
+        "unit": "X",
+        "unitName": "National and International Health Agencies",
+        "question": "GOBI concept was given by UNICEF in 1982.",
+        "isTrue": true,
+        "explanation": "GOBI: Growth monitoring, Oral rehydration, Breastfeeding, Immunization.",
+        "year": "Sourcebook"
+      },
+      {
+        "unit": "X",
+        "unitName": "National and International Health Agencies",
+        "question": "SARS stands for Severe Acute Respiratory Syndrome.",
+        "isTrue": true,
+        "explanation": "Correct.",
+        "year": "nursing exam"
+      }
+    ]
