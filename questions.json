@@ -1,8 +1,6 @@
 
 [
-      // ====================
-      // UNIT I: Health System in India
-      // ====================
+      
       {
         "unit": "I",
         "unitName": "Health System in India",
@@ -221,9 +219,7 @@
         "year": "Unspecified"
       },
 
-      // ====================
-      // UNIT II: Health Care Delivery System
-      // ====================
+    
       {
         "unit": "II",
         "unitName": "Health Care Delivery System",
@@ -321,9 +317,7 @@
         "year": "February 2025"
       },
 
-      // ====================
-      // UNIT III: Health Planning in India
-      // ====================
+     
       {
         "unit": "III",
         "unitName": "Health Planning in India",
@@ -445,9 +439,6 @@
         "year": "nursing exam"
       },
 
-      // ====================
-      // UNIT IV: Specialized Community Health Services
-      // ====================
       {
         "unit": "IV",
         "unitName": "Specialized Community Health Services",
@@ -625,9 +616,6 @@
         "year": "Standard"
       },
 
-      // ====================
-      // UNIT V: National Health Problems
-      // ====================
       {
         "unit": "V",
         "unitName": "National Health Problems",
@@ -773,9 +761,7 @@
         "year": "Unspecified"
       },
 
-      // ====================
-      // UNIT VI: National Health Programmes
-      // ====================
+     
       {
         "unit": "VI",
         "unitName": "National Health Programmes",
@@ -1009,9 +995,7 @@
         "year": "Unspecified"
       },
 
-      // ====================
-      // UNIT VII: Demography and Family Welfare
-      // ====================
+    
       {
         "unit": "VII",
         "unitName": "Demography and Family Welfare",
@@ -1229,9 +1213,6 @@
         "year": "Unspecified"
       },
 
-      // ====================
-      // UNIT VIII: Health Team and Nurse’s Role
-      // ====================
       {
         "unit": "VIII",
         "unitName": "Health Team and Nurse’s Role",
@@ -1337,9 +1318,6 @@
         "year": "Unspecified"
       },
 
-      // ====================
-      // UNIT IX: Health Information System
-      // ====================
      
       {
         "unit": "IX",
@@ -1447,9 +1425,7 @@
         "year": "nursing exam"
       },
 
-      // ====================
-      // UNIT X: National and International Health Agencies
-      // ====================
+   
       {
         "unit": "X",
         "unitName": "National and International Health Agencies",
